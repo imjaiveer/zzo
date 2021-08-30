@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Open Guide",
-  "short_name": "Open Guide",
+  "name": "Hugo Zzo Theme",
+  "short_name": "Hugo Zzo Theme",
   "version": "1.0.0",
   "default_locale": "en",
   "description": "Hugo blog theme with rich features",
