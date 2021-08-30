@@ -1,5 +1,5 @@
-baseURL = "https://thejai.vercel.app/"
-title = "Hugo Zzo Theme"
+baseURL = "https://opg.vercel.app/"
+title = "Open Guide"
 theme = "zzo"
 
 defaultContentLanguage = "en"
