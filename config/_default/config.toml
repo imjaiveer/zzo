@@ -1,6 +1,6 @@
 baseURL = "https://opg.vercel.app/"
 title = "Open Guide"
-theme = "Open Guide "
+theme = "zzo"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
