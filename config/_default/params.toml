@@ -1,6 +1,6 @@
 logoText = "Open Guide"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Hey! Do you have any question ?"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -24,7 +24,7 @@ enableAppbarSearchIcon = false
 enableAppbarLangIcon = false
 
 # header
-homeHeaderType = "text" # text, img, slide, typewriter
+homeHeaderType = false # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = false
 
 # menu
@@ -60,13 +60,13 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "zzossig"
+myname = "Jai Singh"
 email = "zzossig@gmail.com"
-whoami = "Web Developer"
+whoami = "Editor"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
+location = "Barabanki, India"
+organization = "Theopengang"
 link = "https://zzossig.io/ko"
 
 # sidebar
