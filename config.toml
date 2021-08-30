@@ -1,3 +1,3 @@
-baseURL = 'https://thejai.vercel.app/'
+baseURL = 'https://opg.vercel.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Open Guide'
