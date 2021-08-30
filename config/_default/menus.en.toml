@@ -22,7 +22,7 @@
   url = "gallery"
   weight = 4
     
-[[main]]
+//[[main]]
   parent = "gallery"
   name = "Cartoon"
   url = "gallery/cartoon"
