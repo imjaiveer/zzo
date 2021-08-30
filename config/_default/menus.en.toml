@@ -16,7 +16,7 @@
   url = "presentation"
   weight = 3
 
-# [[main]]
+[[main]]
   identifier = "gallery"
   name = "Gallery"
   url = "gallery"
