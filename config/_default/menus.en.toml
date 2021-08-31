@@ -1,28 +1,28 @@
 [[main]]
   identifier = "Question Bank"
   name = "Question Bank"
-  url = "qb"
+  url = "question-bank"
   weight = 1
   
 [[main]]
   parent = "Question Bank"
   name = "Botany"
-  url = "qb/bot" 
+  url = "question-bank/botany" 
   
 [[main]]
   parent = "Question Bank"
   name = "Zoology"
-  url = "qb/zoo" 
+  url = "question-bank/zoology" 
   
 [[main]]
   parent = "Question Bank"
   name = "Chemistry"
-  url = "qb/chem" 
+  url = "question-bank/chemistry" 
  
 [[main]]
   parent = "Question Bank"
   name = "Physics"
-  url = "qb/phy" 
+  url = "question-bank/physics" 
   
 [[main]]
   identifier = "about"
