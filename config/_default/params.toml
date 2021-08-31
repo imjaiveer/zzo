@@ -70,7 +70,7 @@ organization = "Theopengang"
 link = "https://zzossig.io/ko"
 
 # sidebar
-enableBio = true
+enableBio = false
 enableBioImage = true
 enableSidebar = true
 enableSidebarTags = true
