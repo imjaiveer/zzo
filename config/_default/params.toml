@@ -92,7 +92,7 @@ enableSidebarPostsByOrder = false
 showPoweredBy = false
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = true
+enableLangChange = false
 enableThemeChange = true
 
 # service
