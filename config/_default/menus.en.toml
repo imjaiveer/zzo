@@ -7,22 +7,22 @@
 [[main]]
   parent = "Question Bank"
   name = "Botany"
-  url = "question-bank/botany" 
+  url = "question-bank/botany/botany-index" 
   
 [[main]]
   parent = "Question Bank"
   name = "Zoology"
-  url = "question-bank/zoology" 
+  url = "question-bank/zoology/zoology-index" 
   
 [[main]]
   parent = "Question Bank"
   name = "Chemistry"
-  url = "question-bank/chemistry" 
+  url = "question-bank/chemistry/chemistry-index" 
  
 [[main]]
   parent = "Question Bank"
   name = "Physics"
-  url = "question-bank/physics" 
+  url = "question-bank/physics/physics-index" 
   
 [[main]]
   identifier = "about"
