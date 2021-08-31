@@ -13,7 +13,7 @@ tags = []
 title = "Question Bank Index"
 
 +++
-[Botany](https://opg.vercel.app/en/question-bank/question-bank-index "Botany Index")
+[Botany](https://opg.vercel.app/en/question-bank/botany/botany-index "Botany Index")
 
 Zoology
 
