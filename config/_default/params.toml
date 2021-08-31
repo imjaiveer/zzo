@@ -8,7 +8,7 @@ meta_image = ""
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHome = "publication" ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
@@ -61,13 +61,13 @@ typeIcon = "🎯"
 
 # whoami
 myname = "Jai Singh"
-email = "zzossig@gmail.com"
+email = ""
 whoami = "Editor"
 bioImageUrl = ""
 useGravatar = false
 location = "Barabanki, India"
 organization = "Theopengang"
-link = "https://zzossig.io/ko"
+link = ""
 
 # sidebar
 enableBio = false
@@ -89,7 +89,7 @@ tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
 
 # footer
-showPoweredBy = true
+showPoweredBy = false
 showFeedLinks = true
 showSocialLinks = true
 enableLangChange = true
@@ -110,8 +110,8 @@ fullContents = false
 
 # comment
 enableComment = true
-disqus_shortname = ""
-commento = false
+disqus_shortname = "opgchat"
+commento = true
 
 [telegram]
   enable = false
