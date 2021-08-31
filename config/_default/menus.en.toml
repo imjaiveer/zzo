@@ -1,7 +1,7 @@
 [[main]]
   identifier = "Question Bank"
   name = "Question Bank"
-  url = "question-bank"
+  url = "question-bank/question-bank-index"
   weight = 1
   
 [[main]]
