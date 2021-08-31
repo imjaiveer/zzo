@@ -7,22 +7,22 @@
 [[main]]
   parent = "Question Bank"
   name = "Botany"
-  url = "gallery/bot" 
+  url = "qb/bot" 
   
 [[main]]
   parent = "Question Bank"
   name = "Zoology"
-  url = "gallery/zoo" 
+  url = "qb/zoo" 
   
 [[main]]
   parent = "Question Bank"
   name = "Chemistry"
-  url = "gallery/chem" 
+  url = "qb/chem" 
  
 [[main]]
   parent = "Question Bank"
   name = "Physics"
-  url = "gallery/phy" 
+  url = "qb/phy" 
   
 [[main]]
   identifier = "about"
