@@ -10,7 +10,7 @@ hideToc = false
 image = ""
 series = []
 tags = []
-title = "First post"
+title = "Botany"
 
 +++
 botany index goes here
