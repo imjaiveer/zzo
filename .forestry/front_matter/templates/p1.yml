@@ -38,3 +38,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- content/en/Question Bank/Botany/first-post.md
