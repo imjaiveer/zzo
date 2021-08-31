@@ -13,7 +13,6 @@ tags = []
 title = "Question Bank Index"
 
 +++
-{{< figure link**=**"/botany/botany-index" title**=**"Botany" >}}
 
 Zoology
 
