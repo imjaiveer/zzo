@@ -4,7 +4,6 @@ authorEmoji = ""
 categories = []
 date = ""
 description = ""
-draft = true
 enableToc = false
 enableTocContent = false
 hideToc = false
