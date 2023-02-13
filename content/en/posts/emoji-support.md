@@ -1,15 +1,14 @@
 ---
-author: "Hugo Authors"
-title: "Emoji Support"
-date: 2019-12-16T12:00:06+09:00
-description: "Guide to emoji usage in Hugo"
+title: Emoji Support
+date: 2019-12-16 03:00:06 Z
+author: Kim
+description: Guide to emoji usage in Hugo
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Kim
-authorEmoji: 👻
-tags: 
+authorEmoji: "\U0001F47B"
+tags:
 - emoji
 - gamoji
 - namoji

@@ -1,18 +1,18 @@
 ---
-title: "Syntax highlighting"
-date: 2019-12-18T10:33:41+09:00
-description: "Syntax highlighting test"
+title: Syntax highlighting
+date: 2019-12-18 01:33:41 Z
+description: Syntax highlighting test
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
 author: Jeus
-authorEmoji: 🎅
+authorEmoji: "\U0001F385"
 pinned: true
 tags:
 - hugo
 series:
--
+- 
 categories:
 - hugo
 image: images/feature2/color-palette.png

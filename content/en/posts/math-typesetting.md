@@ -1,14 +1,13 @@
 ---
-author: Hugo Authors
 title: Math Typesetting
-date: 2019-12-17T12:00:06+09:00
+date: 2019-12-17 03:00:06 Z
+author: Park
 description: A brief guide to setup KaTeX
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Park
-authorEmoji: 👽
+authorEmoji: "\U0001F47D"
 libraries:
 - katex
 ---

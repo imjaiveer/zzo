@@ -1,4 +1,5 @@
 ---
-title: "Presentations"
-description: "Presentation list with reveal.js"
+title: Presentations
+description: Presentation list with reveal.js
 ---
+

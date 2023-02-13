@@ -1,14 +1,15 @@
 ---
-title: "Mermaid support"
-date: 2019-11-17T12:00:06+09:00
-description: "Generate diagrams, charts, graphs or flows from markdown-like text via javascript."
+title: Mermaid support
+date: 2019-11-17 03:00:06 Z
+description: Generate diagrams, charts, graphs or flows from markdown-like text via
+  javascript.
 draft: false
 enableToc: false
 enableTocContent: false
 tags:
 - diagram
 series:
--
+- 
 categories:
 - diagram
 libraries:
